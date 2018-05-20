@@ -1,3 +1,3 @@
-# 1nnu_story
+# Summary
 
-Now this is a story all about how 1NNU got mutated, engineered all around
+This is a ipython notebook describing data I collected from enzyme kinetics experiments
